@@ -1,79 +1,84 @@
-<h1 align="center">Hi 👋, I'm Sampurna Chakrabarty</h1>
-<h3 align="center">A Computer Science Engineering student specializing in Data Science who is passionate and curious</h3>
+<h1 align="center">✨🌸 Hi there! I'm Sampurna Chakrabarty 🌸✨</h1>
+<h3 align="center">🎓 A Computer Science Engineering student specializing in Data Science 👩‍💻 who’s passionate, curious, and powered by caffeine ☕</h3>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=sampurna222&label=Profile%20views&color=0e75b6&style=flat" alt="sampurna222" />
-</p>
 
-<p align="left">
+<p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=sampurna222" alt="sampurna222" />
+    <img src="https://github-profile-trophy.vercel.app/?username=sampurna222&theme=dracula&no-frame=true&margin-w=15&margin-h=15" alt="Trophies" />
   </a>
 </p>
 
-- 🌱 I’m currently learning **Advanced Machine Learning, Pandas, HTML, Tableau, Django**
-- 💬 Ask me about **Plants, Dogs, Cats and of course Data**
-- 📫 How to reach me **sampurnachakrabarty873@gmail.com**
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1WdrEHosEMsyB_uo7nmwlpMj15aSd98oV/view?usp=sharing)
-- ⚡ Fun fact: **I treat error messages like riddles. If bugs had a nemesis, it’d be me. 😄**
+---
+
+### 🌱 What I'm Learning Right Now
+
+- 🤖 Advanced Machine Learning  
+- 🐼 Pandas & Python  
+- 🌐 HTML, Django  
+- 📊 Tableau & Visualization
 
 ---
 
-<h3 align="center">👩‍💻 Tired but determined coder vibes:</h3>
+### 💬 Ask Me About
+
+🌿 Plants 🐶 Dogs 🐱 Cats 📈 Data Science  
+📫 Email: **sampurnachakrabarty873@gmail.com**  
+📄 [📎 Resume](https://drive.google.com/file/d/1WdrEHosEMsyB_uo7nmwlpMj15aSd98oV/view?usp=sharing)
+
+> ⚡ **Fun fact:** I treat error messages like boss battles. If bugs had a villain, it would be me 😎🐛🗡️
+
+---
+
+<h3 align="center">🌙 Me coding at 2:22 AM like:</h3>
 <p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGhrcWIyOXU3djU5b3JtbThyMmdvbDhqZjl1N2lrdW01c21rbG53OCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/JIX9t2j0ZTN9S/giphy.gif" width="350" alt="coding chibi gif">
+  <img src="https://media.giphy.com/media/LHZyixOnHwDDy/giphy.gif" width="300" alt="Anime girl coding" />
 </p>
 
 ---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://linkedin.com/in/sampurna-chakrabarty-364a65342" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="https://kaggle.com/sampurnachakrabarty" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/@sampurnachakrab1" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" />
-  </a>
-  <a href="https://www.leetcode.com/sampurna00" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" />
-  </a>
-</p>
-
----
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-</p>
-
----
+### 🧠 Languages & Tools I Use
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sampurna222&show_icons=true&locale=en" alt="sampurna222" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sampurna222&" alt="sampurna222" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="40" height="40" title="C" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg" width="40" height="40" title="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40" title="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" title="Python" />
 </p>
 
 ---
-<h3 align="center"> Let's Play Yeeee </h3>
+
+### 🌐 Connect with Me
+
 <p align="center">
-  <img src="https://github.com/sampurna222/gif/blob/main/giphy.gif?raw=true" width="400" alt="GIF autoplay" />
+  <a href="https://linkedin.com/in/sampurna-chakrabarty-364a65342" target="_blank" title="LinkedIn">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
+  </a>
+  <a href="https://kaggle.com/sampurnachakrabarty" target="_blank" title="Kaggle">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.hackerrank.com/@sampurnachakrab1" target="_blank" title="HackerRank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/sampurna00" target="_blank" title="LeetCode">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" height="30" width="40" />
+  </a>
 </p>
 
+---
 
+### 📊 My GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sampurna222&show_icons=true&theme=tokyonight" alt="GitHub stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sampurna222&theme=tokyonight" alt="GitHub streak" />
+</p>
+
+---
+
+<h3 align="center">🌸 Thanks for visiting! See you again! 👋</h3>
+<p align="center">
+  <img src="https://media.giphy.com/media/8vQSQ3cNXuDGo/giphy.gif" width="300" alt="Anya Spy x Family waving bye" />
+</p>
