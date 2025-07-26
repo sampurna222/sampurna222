@@ -72,7 +72,4 @@
 
 ---
 
-<h3 align="center">🎮 Play Tic Tac Toe with Me!</h3>
-<p align="center">
-  <iframe src="https://tic-tac-toe-js-game.vercel.app" width="350" height="400" frameborder="0" title="Tic Tac Toe Game"></iframe>
-</p>
+
